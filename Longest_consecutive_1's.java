@@ -29,6 +29,6 @@ public class Main
                 count=0;
             }
         }
-        System.out.println("Length of longest consecutive 1's :"+max);
+        System.out.println("Length of longest consecutive 1's : "+max);
 	    }
 }
