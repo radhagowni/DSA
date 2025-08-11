@@ -8,7 +8,7 @@ class Main
         int row1=sc.nextInt();
         int col1=sc.nextInt();
         int[][] A=new int[row1][col1];
-        System.out.println("Enter elements of A:");
+        System.out.println("Enter elements of matrix A:");
         for(int i=0;i<row1;i++)
         {
             for(int j=0;j<col1;j++)
@@ -20,7 +20,7 @@ class Main
         int row2=sc.nextInt();
         int col2=sc.nextInt();
         int[][] B=new int[row2][col2];
-        System.out.println("Enter elements of B:");
+        System.out.println("Enter elements of matrix B:");
         for(int i=0;i<row2;i++)
         {
             for(int j=0;j<col2;j++)
@@ -39,4 +39,5 @@ class Main
             System.out.print("\n");
         }
     }
+
 }
