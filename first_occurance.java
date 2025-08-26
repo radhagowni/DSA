@@ -8,7 +8,7 @@ class Main
         System.out.println("Enter size of the array:");
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
-        System.out.println("Enter target element:");
+        System.out.println("Enter target element: ");
         int target=sc.nextInt();
         System.out.println("Enter array elements:");
         int[] a=new int[n];
@@ -39,4 +39,5 @@ class Main
       
         
     }
+
 }
