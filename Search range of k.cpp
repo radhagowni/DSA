@@ -1,3 +1,4 @@
+//searching the first and last occurance of value k .we need to print their indices.
 #include<iostream>
 using namespace std;
 int main()
