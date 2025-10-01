@@ -1,3 +1,4 @@
+#fibonacci series using a function called fibonacci
 def fibonacci(n):
     l=[]
     a=1 
