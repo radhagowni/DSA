@@ -1,3 +1,4 @@
+// finding the sum of two matrices of equal size
 import java.util.*;
 class Main 
 {
@@ -41,3 +42,4 @@ class Main
     }
 
 }
+
