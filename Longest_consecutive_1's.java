@@ -1,3 +1,4 @@
+// java program to find the longest consecutive 1's in the given binary array
 import java.util.*;
 public class Main
 {
