@@ -1,3 +1,4 @@
+#it is to find maximum element in an array
 print("Enter the size of the array:")
 n=int(input())
 print("Enter ",n,"values:")
@@ -8,3 +9,4 @@ for i in range(1,n):
         max_ele=l[i]
 
 print("The maximum element in the array :",max_ele)
+
