@@ -1,3 +1,5 @@
+# We use different programming languages like C, Python,Java,C++ etc based on our requirements.
+# Similarly,we write different solutions/approaches/codes/program for the same problem inorder to reduce ** time complexity **
 # DSA
 This repository contains implementations of Data Structures and Algorithms problems in Java,Python,C++.
 It is designed to practice core programming concepts,strengthen problem-solving skills, and prepare for coding interviews.
