@@ -7,7 +7,7 @@ for i in range(t):
    if not arr:
      print(1)
      continue
-   arr=sorted(set(arr))
+   arr=sorted(set(arr)) # sorting the array
    if arr[0]!=1:
       print(1)
       continue
