@@ -1,4 +1,5 @@
 #if index starts from 0 and fibonacci series starts from 0
+# We have given different approches to find the same series
 def fibonacci(n):
     l=[]
     a=0 
