@@ -1,3 +1,4 @@
+# program to find exclusion product
 n=int(input())
 arr=list(map(int,input().split()))
 mod=(10**9)+7
