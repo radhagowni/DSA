@@ -5,7 +5,7 @@ class Main
     public static void main(String[] args)
     {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter numbers of rows and columns of matrix A");
+        System.out.println("Enter numbers of rows and columns of matrix A"); // size of the 2D array
         int row1=sc.nextInt();
         int col1=sc.nextInt();
         int[][] A=new int[row1][col1];
@@ -42,4 +42,5 @@ class Main
     }
 
 }
+
 
