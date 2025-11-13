@@ -6,7 +6,7 @@ public class Main
 	    Scanner sc=new Scanner(System.in);
 	    int count=0;
 	    int max=0;
-	    System.out.println("Enter size of array A:");
+	    System.out.println("Enter size of array A:"); //taking the size of the array from user
 	    int n=sc.nextInt();
 	    int[] A=new int[n];
 	    System.out.println("Note:Array should consists of binary values only.");
