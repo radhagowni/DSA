@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     int rows;
+    // we take input from user 
     cout<<"Enter number of rows:"<<endl;
     cin>>rows;
     for(int i=1;i<=rows;i++)
