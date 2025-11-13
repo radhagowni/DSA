@@ -1,3 +1,4 @@
+# program to find perfect approach
 num=int(input())
 if num < 2: 
     print(False) 
