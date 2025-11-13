@@ -5,7 +5,7 @@ int main()
 {
     int max,min;
     int n;
-    cin>>n;
+    cin>>n; // taking the input from user
     int a[n];
     for(int i=0;i<n;i++)
     {
