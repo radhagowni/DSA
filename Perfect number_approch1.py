@@ -1,3 +1,5 @@
+# a program to find the given number is perfect or not 
+
 num=int(input())
 if num < 2: 
     print(False) 
