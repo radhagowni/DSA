@@ -1,3 +1,4 @@
+// to find the sum in the given range
 #include<iostream>
 using namespace std;
 int main()
