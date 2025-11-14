@@ -29,7 +29,7 @@ int main()
             break;
         }
     }
-    cout<<idx<<" "<<idx1;
+    cout<<idx<<" "<<idx1; // we are printing on to the console
     
  
 }
