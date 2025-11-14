@@ -1,3 +1,4 @@
+# reversing the words in a string
 def reverseWords(s):
     s=s.strip()
     ar=list(map(str,s.split(" ")))
