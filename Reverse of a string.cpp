@@ -1,3 +1,4 @@
+// to reverse the string using strlen function
 #include<iostream>
 #include<string>
 using namespace std;
