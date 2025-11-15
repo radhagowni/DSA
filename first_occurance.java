@@ -1,3 +1,4 @@
+// we are finding the first and last index of the element given
 import java.util.*;
 class Main 
 {
@@ -41,3 +42,4 @@ class Main
     }
 
 }
+
