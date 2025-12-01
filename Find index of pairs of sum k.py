@@ -9,7 +9,7 @@ while(f<r):
         print(f,r)
         break
     elif s<k:
-        f=f+1 
+        f=f+1
     else:
         r=r-1 
 else:
